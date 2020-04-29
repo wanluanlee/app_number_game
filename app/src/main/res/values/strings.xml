@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Game</string>
+    <string name="rule1">1. Please guess a 4-digital number without repetition.</string>
+    <string name="rule2">2. In the result section, an A means you have guessed the number correctly
+        and it is at the correct position, but does not necessarily correspond to the exact position of the above number. </string>
+    <string name="rule3">3. In the result section, a B means you have guessed the number correctly
+        but it is in the incorrect position.</string>
+</resources>
